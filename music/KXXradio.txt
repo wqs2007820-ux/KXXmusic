@@ -1,0 +1,146 @@
+music_station = "KXXradio"
+music = {
+	song = "maibaoge"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "gongxigongxi"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zhipabudikang"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zuguodehaizimen"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "suanzaoci"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "xinnvxing"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "qianjinge"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zaitaihangshanshang"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "biyege"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "kangrizhange"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "daodirenhoufangqu"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "baoweilugouqiao"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "gongnongyijiaren"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "matougongrenge"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "sanbafunvjiege"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "chunhuaqiuyueheshiliao"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+

@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "KXXradio_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/KXXradio.png"
+		noOfFrames = 2
+	}
+}

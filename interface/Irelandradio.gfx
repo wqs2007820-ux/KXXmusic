@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "Irelandradio_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/Irelandradio.png"
+		noOfFrames = 2
+	}
+}

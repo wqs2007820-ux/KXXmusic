@@ -1,0 +1,80 @@
+music = {
+	name = "maibaoge"
+	file = "KXXradio/maibaoge.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gongxigongxi"
+	file = "KXXradio/gongxigongxi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "zhipabudikang"
+	file = "KXXradio/zhipabudikang.ogg"
+	volume = 1.25
+}
+music = {
+	name = "zuguodehaizimen"
+	file = "KXXradio/zuguodehaizimen.ogg"
+	volume = 1.25
+}
+music = {
+	name = "suanzaoci"
+	file = "KXXradio/suanzaoci.ogg"
+	volume = 1.25
+}
+music = {
+	name = "xinnvxing"
+	file = "KXXradio/xinnvxing.ogg"
+	volume = 1.25
+}
+music = {
+	name = "qianjinge"
+	file = "KXXradio/qianjinge.ogg"
+	volume = 1.25
+}
+music = {
+	name = "zaitaihangshanshang"
+	file = "KXXradio/zaitaihangshanshang.ogg"
+	volume = 1.25
+}
+music = {
+	name = "biyege"
+	file = "KXXradio/biyege.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kangrizhange"
+	file = "KXXradio/kangrizhange.ogg"
+	volume = 1.25
+}
+music = {
+	name = "daodirenhoufangqu"
+	file = "KXXradio/daodirenhoufangqu.ogg"
+	volume = 1.25
+}
+music = {
+	name = "baoweilugouqiao"
+	file = "KXXradio/baoweilugouqiao.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gongnongyijiaren"
+	file = "KXXradio/gongnongyijiaren.ogg"
+	volume = 1.25
+}
+music = {
+	name = "matougongrenge"
+	file = "KXXradio/matougongrenge.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sanbafunvjiege"
+	file = "KXXradio/sanbafunvjiege.ogg"
+	volume = 1.25
+}
+music = {
+	name = "chunhuaqiuyueheshiliao"
+	file = "KXXradio/chunhuaqiuyueheshiliao.ogg"
+	volume = 1.25
+}

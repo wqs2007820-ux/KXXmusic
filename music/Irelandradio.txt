@@ -1,0 +1,245 @@
+music_station = "Irelandradio"
+
+music = {
+	song = "miwushuizhu"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zouzaitongyitiaodadaoshang"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "samuzhige"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "tianyouaierlan"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zhanshizhige"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zhanshizhigeyingyu"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "womenderizizhongjiangdaolai"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zaicichengweiyigeguojia"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "heizongsebuduigunchulai"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "yingguoshibinggunhuijiaqu"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "aierlannianqingdeshibing"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "woxinzaiaierlan"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "wodexiaoamalaite"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "bojuedetaowang"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "shengannidelier"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "yueshengzhishi"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "sikaidaochuange"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "nikeluguoaseer"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "yueshengzhishi"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "yueshengzhishi"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "zhanshizhige"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "womenderizizhongjiangdaolai"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "weikesifudedenanhai"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "genwodashangkaluo"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "aofolingshenfu"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "aotangnawansui"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "upthera"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 100
+		}
+	}
+}
